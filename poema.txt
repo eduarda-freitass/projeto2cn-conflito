@@ -1,3 +1,4 @@
 Linha 1: Introdução
 Linha 2: Modificado pela Clara e Alterado pelo Usuario 1
-Linha 3: Conclusão
+Linha 3: Conclusão alterada pela Clara 
+
