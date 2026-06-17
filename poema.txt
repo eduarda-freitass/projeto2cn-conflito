@@ -1,3 +1,3 @@
 Linha 1: Introdução
-Linha 2: Texto base
+Linha 2: Modificado pela Clara
 Linha 3: Conclusão
